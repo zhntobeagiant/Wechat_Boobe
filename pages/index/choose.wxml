@@ -1,0 +1,12 @@
+<!--pages/index/choose.wxml-->
+<view>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+  <button>图片按钮1</button>
+</view>

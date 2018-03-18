@@ -1,0 +1,8 @@
+<!--pages/index/show.wxml-->
+<view class='first-stage'>
+  <button bindtap="button1" class='b1'></button>
+  <button bindtap="button2" class='b2'></button>
+  <button bindtap="button3" class='b3'></button>
+  <button bindtap="button4" class='b4'></button>
+  <text class='text-style'>当前位置：{{locationData}}</text>
+</view>

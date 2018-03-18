@@ -1,0 +1,93 @@
+/* pages/index/show.wxss */
+
+.first-stage {
+  position: relative;
+  margin-top: 50rpx;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
+
+.b1 {
+  position: absolute;
+  left: 0rpx;
+  top: 0rpx;
+  width: 320rpx;
+  height: 660rpx;
+  margin: 20rpx;
+  font-size: 30rpx;
+  border-style: solid;
+  border-width: 1rpx;
+  border-radius: 30rpx;
+  border-color: #2b91af;
+  background-color: rgba(150,201,215,0.5);
+  background-image: url(http://104.192.80.177/Booberx/res/picture.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 5rpx 5rpx 5rpx #888888;
+}
+
+.b2 {
+  position: absolute;
+  right: 0rpx;
+  top: 0rpx;
+  width: 300rpx;
+  height: 300rpx;
+  margin: 20rpx;
+  font-size: 30rpx;
+  border-style: solid;
+  border-width: 1rpx;
+  border-radius: 30rpx;
+  border-color: #2b91af;
+  background-color: rgba(150,201,215,0.5);
+  background-image: url(http://104.192.80.177/Booberx/res/choose.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 5rpx 5rpx 5rpx #888888;
+}
+
+.b3 {
+  position: absolute;
+  right: 0rpx;
+  top: 360rpx;
+  width: 300rpx;
+  height: 300rpx;
+  margin: 20rpx;
+  font-size: 30rpx;
+  text-align: center;
+  border-style: solid;
+  border-width: 1rpx;
+  border-radius: 30rpx;
+  border-color: #2b91af;
+  background-color: rgba(150,201,215,0.5);
+  background-image: url(http://104.192.80.177/Booberx/res/location.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 5rpx 5rpx 5rpx #888888;
+}
+
+.b4 {
+  position: absolute;
+  left: 0rpx;
+  top: 720rpx;
+  width: 650rpx;
+  height: 250rpx;
+  margin: 20rpx;
+  font-size: 30rpx;
+  border-style: solid;
+  border-width: 1rpx;
+  border-radius: 30rpx;
+  border-color: #2b91af;
+  background-color: rgba(150,201,215,0.5);
+  background-image: url(http://104.192.80.177/Booberx/res/develop.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  box-shadow: 5rpx 5rpx 5rpx #888888;
+}
+
+.text-style {
+  position: absolute;
+  left: 170rpx;
+  top: 1040rpx;
+  font-size: 20rpx;
+  text-align: center;
+}

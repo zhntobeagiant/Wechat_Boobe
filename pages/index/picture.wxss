@@ -1,0 +1,53 @@
+/* pages/index/picture.wxss */
+
+.first-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  border-style: solid;
+  border-width: 1rpx;
+  border-radius: 30rpx;
+  border-color: #000000;
+}
+
+.picture-style {
+  width: 738rpx;
+  height: 1000rpx;
+  margin-top: 50rpx;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.bl {
+  position: absolute;
+  left: 10rpx;
+  top: 500rpx;
+  width: 90rpx;
+  height: 120rpx;
+  background-color: rgba(175,175,175,0.1);
+  background-image: url(http://104.192.80.177/Booberx/res/previous.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-color: rgba(175,175,175,0.1);
+}
+
+.bn {
+  position: absolute;
+  right: 10rpx;
+  top: 500rpx;
+  width: 90rpx;
+  height: 120rpx;
+  background-color: rgba(175,175,175,0.1);
+  background-image: url(http://104.192.80.177/Booberx/res/next.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  border-color: rgba(175,175,175,0.1);
+}
+
+.text-style {
+  font-size: 20rpx;
+  margin-bottom: 6rpx;
+  margin-top: 125rpx;
+}

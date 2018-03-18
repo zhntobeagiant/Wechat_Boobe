@@ -1,0 +1,8 @@
+<!--pages/index/picture.wxml-->
+
+<view class='.first-stage'>
+  <view class='picture-style' style="background-image: url({{pic}})"></view>
+  <view bindtap="button11" class='bl'></view>
+  <view bindtap="button22" class='bn'></view>
+  <text class='text-style'>{{cursor}}</text>
+</view>
